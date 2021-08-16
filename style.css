@@ -1,0 +1,22 @@
+body{
+    background-size: 1600px 800px;
+}
+
+canvas{
+    border: 5px ridge white;
+    border-radius: 20px;
+}
+
+.btn-default{
+    background-color: blueviolet;
+    color: whitesmoke;
+}
+
+.btn{
+    font-size: 25px;
+}
+
+.heading{
+font-size: 20px;
+}
+
